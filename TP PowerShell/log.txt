@@ -1,0 +1,46 @@
+﻿**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190122091015
+Nom d'utilisateur : DESKTOP-JRNAVO7\pierr
+Utilisateur runAs :  DESKTOP-JRNAVO7\pierr
+Nom de la configuration : 
+Ordinateur : DESKTOP-JRNAVO7 (Microsoft Windows NT 10.0.17763.0)
+Application hôte : C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+ID de processus : 14636
+PSVersion: 5.1.17763.134
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.134
+BuildVersion: 10.0.17763.134
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Present
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190122091015
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190122094115
+Nom d'utilisateur : DESKTOP-JRNAVO7\pierr
+Utilisateur runAs :  DESKTOP-JRNAVO7\pierr
+Nom de la configuration : 
+Ordinateur : DESKTOP-JRNAVO7 (Microsoft Windows NT 10.0.17763.0)
+Application hôte : C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+ID de processus : 14636
+PSVersion: 5.1.17763.134
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.134
+BuildVersion: 10.0.17763.134
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Present
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190122094115
+**********************

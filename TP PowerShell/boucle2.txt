@@ -1,0 +1,18 @@
+   Set-location "D:\TP PowerShell"
+
+   Import-Csv "LIVRAISON.csv"
+   
+   ForEach ($item in LIVRAISON.csv)
+   
+   
+  {
+  
+  $Livreur = $item.Livreur
+  
+  $Adresse = $item.Adresse
+  
+  $Commande = $item.Commande
+  
+  $Date = $item.Date
+  
+  
